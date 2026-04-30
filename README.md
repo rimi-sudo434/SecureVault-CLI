@@ -30,6 +30,9 @@ SecureVault CLI is a lightweight password manager built using Java. It helps use
 ### 1. Compile the project
 ```bash
 javac Main.java
+```
 2. Run the program
-Bash
+```bash
 java Main
+```
+
